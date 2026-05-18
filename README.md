@@ -29,11 +29,6 @@ pip install careless[cuda]
 You may run `careless devices` to check whether GPU support was successfully installed. If you run into issues please [File an issue](https://github.com/rs-station/careless/issues/new/choose).
 
 
-
-## Installation with GPU Support
-Careless supports GPU acceleration on NVIDIA GPUs through the CUDA library. We strongly encourage users to take advantage of this feature. To streamline installation, we maintain a script which installs careless with CUDA support. The following section will guide you through installing careless for the GPU. 
-
-
 ## Dependencies
 
 `careless` is likely to run on any operating system and python version which is compatible with TensorFlow. 
